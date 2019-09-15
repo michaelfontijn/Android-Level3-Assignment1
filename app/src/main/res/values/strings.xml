@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android-Level3-Assignment1</string>
+    <string name="splash_title">User Profile Kotlin</string>
+    <string name="open_galery_btn">OPEN PICTURE GALERY</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="description">Description</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="name">%1$s %2$s</string>
+</resources>
